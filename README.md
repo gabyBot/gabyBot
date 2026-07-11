@@ -1,7 +1,7 @@
 # Hi, I'm Gaby 👋
 
-I work in solution architecture and use this space to explore how cloud, security, integration and architecture come together to solve real problems.
+I enjoy understanding how technology works, how systems connect and how better architecture can make solutions clearer, safer and easier to evolve.
 
-Here you'll find personal projects, diagrams, experiments and notes built along the way.
+This space is where I build, experiment and document what I learn about cloud, security, integration and architecture.
 
-Currently working with AWS, Terraform, Python and architecture modeling.
+Currently exploring AWS, Terraform, Python and architecture modeling.
